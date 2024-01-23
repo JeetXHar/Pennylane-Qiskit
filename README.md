@@ -1,0 +1,1 @@
+these files contain methodology of some of the calculation i needed to do ones for my project. I have collected all the calcution methods that were hard to find or write a code of. You may or may not find these useful.
